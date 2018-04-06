@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica, Arial, sans-serif;;
+}
+
+.logo{
+    margin-left : 50px; 
+    margin-top : 40px;
+}
+
+.terms_top {
+    height: 113px;
+    width: 100%;
+    background: #5f5efc;
+}
+
+.privacy {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 70px;
+    color: grey;
+}
+.privacy_content{
+    margin-top: 70px;
+    margin-left: 226px;
+    color: grey;
+    margin-bottom: 400px;
+}
+.pri_title{
+    font-size: 20px;
+}
+.pri_content{
+    font-size: 18px;
+}

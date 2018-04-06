@@ -1,0 +1,142 @@
+
+<svg width="1440px" height="1294px" viewBox="00 0 1440 1294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <style>
+    text{
+        font-family: Helvetica;
+    }
+    </style>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="18.9312066%" y1="109.392273%" x2="15.6438053%" y2="9.26605017%" id="linearGradient-1">
+            <stop stop-color="#D4FFEC" offset="0%"></stop>
+            <stop stop-color="#57F2CC" offset="0%"></stop>
+            <stop stop-color="#6CF4D1" offset="0%"></stop>
+            <stop stop-color="#07D7D4" offset="66.4310874%"></stop>
+            <stop stop-color="#0CCDCA" offset="94.790914%"></stop>
+        </linearGradient>
+        <path d="M1,199.850945 C485,77.3830184 965,77.3830184 1441,199.850945 L1441,1284 L1,1284 L1,199.850945 Z" id="path-2"></path>
+        <filter x="-1.5%" y="-1.8%" width="102.9%" height="103.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="20" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0168696388   0 0 0 0 0.619180485   0 0 0 0 0.610235274  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="26" y="0" width="1095" height="417" rx="4"></rect>
+        <filter x="-5.0%" y="-8.4%" width="110.0%" height="126.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.287618886 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="0" y="1" width="303" height="75" rx="37.5"></rect>
+        <filter x="-20.1%" y="-78.7%" width="140.3%" height="262.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.729704484 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M6.15332448,-6.93140231e-08 L1155.84147,-6.93140837e-08 C1157.98112,-6.93139833e-08 1158.757,0.222781397 1159.53923,0.64111842 C1160.32145,1.05945544 1160.93534,1.67334802 1161.35368,2.45557024 C1161.77201,3.23779246 1161.9948,4.01367944 1161.9948,6.15332441 L1161.9948,169.846676 C1161.9948,171.98632 1161.77201,172.762207 1161.35368,173.54443 C1160.93534,174.326652 1160.32145,174.940544 1159.53923,175.358882 C1158.757,175.777219 1157.98112,176 1155.84147,176 L6.15332448,176 C4.0136795,176 3.23779253,175.777219 2.45557031,175.358882 C1.67334809,174.940544 1.05945551,174.326652 0.641118489,173.54443 C0.222781467,172.762207 1.00729278e-11,171.98632 1.00726657e-11,169.846676 L1.00046075e-11,6.15332441 C1.00043454e-11,4.01367944 0.222781467,3.23779246 0.641118489,2.45557024 C1.05945551,1.67334802 1.67334809,1.05945544 2.45557031,0.64111842 C3.23779253,0.222781397 4.0136795,-6.93140227e-08 6.15332448,-6.93140231e-08 Z" id="path-8"></path>
+        <filter x="-3.6%" y="-23.9%" width="108.3%" height="154.5%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="6" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.701960784   0 0 0 0 0.701960784   0 0 0 0 0.701960784  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Definitivo-" transform="translate(0.000000, -3491.000000)">
+            <g id="About" transform="translate(-1.000000, 3501.000000)">
+                <g id="Rectangle-2" opacity="0.45703125" transform="translate(721.000000, 696.000000) scale(-1, -1) translate(-721.000000, -696.000000) ">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Group-22" transform="translate(150.000000, 0.000000)">
+                    <g id="2">
+                        <g id="Shadow">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                        <rect id="Rectangle-3-Copy" fill="#FFFFFF" x="0" y="0" width="1142" height="417" rx="4"></rect>
+                    </g>
+                    <g id="Group-20" transform="translate(317.000000, 97.000000)">
+                        <g id="Group-12">
+                            <text id="Read-the-whitepaper" font-family=".SFNSDisplay, .SF NS Display" font-size="48" font-weight="normal" fill="#8A939F">
+                                <tspan x="60" y="46">Read the whitepaper</tspan>
+                            </text>
+                            
+                            <g id="Group-8" transform="translate(103.000000, 132.000000)">
+                                <g id="Group-10">
+                                    <g id="Group-6">
+                                        <g id="Rectangle-5">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                            <rect stroke="#FFFFFF" stroke-width="3" x="1.5" y="2.5" width="300" height="72" rx="36"></rect>
+                                        </g>
+                        
+                                        <rect id="Rectangle-6" stroke="#CFD1D5" stroke-width="3" x="21.5" y="1.5" width="260" height="68"></rect>
+                                        
+                                    </g>
+                                </g>
+                            </g>
+                            
+                        </g>
+                    </g>
+                </g>
+                <g id="hero" transform="translate(0.000000, 620.000000)" fill="#FFFFFF" font-weight="normal">
+                    <text id="Crowdsale-structure" font-family=".SFNSDisplay, .SF NS Display" font-size="48" line-spacing="50">
+                        <tspan x="530.859375" y="37.0859375">Crowdsale structure</tspan>
+                    </text>
+                    <text id="Total-amount:-1,000," font-family=".AppleSystemUIFont" font-size="18" line-spacing="33">
+                        <tspan x="151" y="359">Total amount: 1,000,000,000 YBC (100% pre-mined) Presale structure: BTC/ETH SAFTE with Yobicash Ltd Mainsale structure: Raiden-style </tspan>
+                        <tspan x="151" y="392">dutch auction.</tspan>
+                    </text>
+                </g>
+                <g id="Group-25" transform="translate(131.000000, 762.000000)">
+                    <g id="Progress" transform="translate(19.000000, 0.000000)">
+                        <g id="base">
+                            <g id="Rectangle-16">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                            </g>
+                            <path d="M9.82696136,3.51999993 L1153.09164,3.51999993 C1155.74261,3.51999993 1157.89164,5.66903313 1157.89164,8.31999993 L1157.89164,165.76 C1157.89164,168.410967 1155.74261,170.56 1153.09164,170.56 L9.9610413,170.556146 C7.31157902,170.556146 5.16316952,168.40946 5.16104285,165.759998 L5.0269629,8.32000147 C5.02483502,5.66903553 7.17214254,3.51827803 9.82310849,3.51615015 C9.82439278,3.51614912 9.82567707,3.5161486 9.82696136,3.5161486 Z" id="grigio" fill="#EFEEF8"></path>
+                        </g>
+                        <g id="50" transform="translate(5.000000, 6.000000)" fill="#4DE2E2">
+                            <path d="M3.9999918,1.26165745e-11 L574,1.26165745e-11 L574,163.000155 L3.9999918,163.000155 C1.7908528,163.000155 -8.1966066e-06,161.209294 -8.19660662e-06,159.000155 L-8.19660662e-06,4 C-8.19660662e-06,1.790861 1.7908528,1.26169803e-11 3.9999918,1.26165745e-11 Z"></path>
+                        </g>
+                        <g id="25" transform="translate(579.000000, 6.000000)" fill="#21CBDF">
+                            <polygon points="4.16111378e-06 0 293 0 293 162.999998 4.16111228e-06 162.999998"></polygon>
+                        </g>
+                        <g id="15" transform="translate(872.000000, 6.000000)" fill="#72E7ED">
+                            <polygon id="Rectangle-17-Copy" points="2.00244623e-06 -1.39846468e-13 141 -1.39846468e-13 141 162.999998 2.00244623e-06 162.999998"></polygon>
+                        </g>
+                        <g id="7,5" transform="translate(1013.000000, 6.000000)" fill="#01CFCC">
+                            <polygon id="Rectangle-17-Copy" points="1.43409275e-06 7.65896307e-13 102 0 102 163 1.43409275e-06 163"></polygon>
+                        </g>
+                        <g id="2,5" transform="translate(1113.000000, 6.000000)" fill="#38BCD0">
+                            <path d="M4.25454545,-7.10542736e-15 L43.9999921,-7.10542736e-15 L43.9999921,163 L4.25454545,163 C2.04540646,163 0.254545455,161.209139 0.254545455,159 L0.254545455,4 C0.254545455,1.790861 2.04540646,-6.69961511e-15 4.25454545,-7.10542736e-15 Z" id="50" transform="translate(22.127269, 81.500000) scale(-1, 1) translate(-22.127269, -81.500000) "></path>
+                        </g>
+                    </g>
+                    <text id="ADVISORS-2,5%" transform="translate(1155.000000, 89.000000) rotate(90.000000) translate(-1155.000000, -89.000000) " font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="1106.63086" y="84">ADVISORS</tspan>
+                        <tspan x="1132.91504" y="107">2,5%</tspan>
+                    </text>
+                    <text id="PARTNERSHIP-7,5%" transform="translate(1053.895455, 87.290909) rotate(90.000000) translate(-1053.895455, -87.290909) " font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="988.075142" y="82.2909091">PARTNERSHIP</tspan>
+                        <tspan x="1032.00092" y="105.290909">7,5%</tspan>
+                    </text>
+                    <text id="TEAM-15%" transform="translate(913.500000, 86.918182) rotate(90.000000) translate(-913.500000, -86.918182) " font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="886.727539" y="81.9181818">TEAM</tspan>
+                        <tspan x="895.360352" y="104.918182">15%</tspan>
+                    </text>
+                    <text id="PRESALE-50%" transform="translate(35.000000, 87.000000) rotate(90.000000) translate(-35.000000, -87.000000) " font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="-6.76269531" y="71">PRESALE</tspan>
+                        <tspan x="15.2294922" y="94">50%</tspan>
+                    </text>
+                    <text id="MAINSALE-25%" transform="translate(619.947727, 88.895455) rotate(90.000000) translate(-619.947727, -88.895455) " font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="571.632298" y="83.8954545">MAINSALE</tspan>
+                        <tspan x="600.582493" y="106.895455">25%</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

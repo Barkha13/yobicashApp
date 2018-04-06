@@ -1,0 +1,25 @@
+
+<svg height="65px" viewBox="0 0 232 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <style>
+    text{
+        font-family: Helvetica;
+    }
+    </style>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Definitivo-" transform="translate(-150.000000, -586.000000)">
+            <g id="Join-our-community" transform="translate(150.000000, 586.000000)">
+                <g id="conponet/CTA_primary">
+                    <g id="Group">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="232" height="65"></rect>
+                        <text id="Join-our-community" font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" fill="#4A4A4A">
+                            <tspan x="30.0087891" y="39">Join our community</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

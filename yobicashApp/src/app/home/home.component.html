@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="./../../assets/styles/css/home.css">
+
+</head>
+
+<body>
+  <div class="wrapper" style="background : url('./../../assets/svg/top.svg')">
+    <div class="top">
+      <div class="nav_bar">
+        <a [routerLink]="['/']"><img src="./../../assets/svg/logo.svg"></a>
+        <a id="nav_1" href="terms.html" [routerLink]="['terms']">Terms and Conditions</a>
+        <a class="nav" href="privacy.html" [routerLink]="['privacy']">Privacy Policy</a>
+        <a class="nav" id="nav_3" href="https://yobicash.org/whitepaper.pdf">Read the Whitepaper</a>
+      </div>
+      <div class="top_wrapper">
+        <div class="top_left">
+          <img src="./../../assets/svg/top_content.svg">
+          <a href="https://www.youtube.com"><img src="./../../assets/svg/top_button.svg"></a>
+        </div>
+      </div>
+      <div class="top_right">
+        <img src="./../../assets/svg/top_img.svg">
+      </div>
+    </div>
+  </div>
+  <div class="mid" style="background : url('./../../assets/svg/mid.svg')">
+    <img src="./../../assets/svg/mid_content.svg">
+  </div>
+  <div class="mid_bottom" style="background : url('./../../assets/svg/mid_1.svg')">
+    <a href="https://yobicash.org/whitepaper.pdf" style="text-decoration:none;"><p id="read">Read</p></a>
+  </div>
+  <div class="team">
+    <img src="./../../assets/svg/team.svg" style="display:block;
+        margin:auto;margin-top : 100px;">
+  </div>
+  <div class="bottom" style="background : url('./../../assets/svg/bottom.svg')">
+
+    <p id="mail">Join our mailing list</p>
+    <p id="update">Get our latest updates</p>
+    <form action="https://yobicash.us16.list-manage.com/subscribe/post?u=283a83329706d4d476fbab601&amp;id=5cd2d54ae5">
+      <input type="text"
+      name="email" 
+      required 
+      minlength="4" 
+      maxlength="24"
+      pattern="^[a-zA-Z0-9.+_-]+@[a-zA-Z0-9._-]+\.[a-zA-Z]+$"
+      [(ngModel)]="email_input"
+      onfocus="this.value = ''" 
+      >
+      <button type="submit" value="Sign up">Sign up</button>
+    </form>
+  </div>
+  
+
+</body>
+
+</html> 
+<app-contact></app-contact>

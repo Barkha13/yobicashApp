@@ -1,0 +1,25 @@
+
+<svg width="1440px" height="2864px" viewBox="0 0 1440 2864" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-9.82780718%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F8F6F6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,3610 C484,3549.32869 964,3549.32869 1440,3610 L1440,824 L0,824 L0,3610 Z" id="path-2"></path>
+        <filter x="-4.2%" y="-2.1%" width="108.5%" height="104.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.847058824   0 0 0 0 0.862745098   0 0 0 0 0.88627451  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Definitivo-" transform="translate(0.000000, -784.000000)">
+            <g id="Rectangle-2" transform="translate(720.000000, 2217.000000) scale(1, -1) translate(-720.000000, -2217.000000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
